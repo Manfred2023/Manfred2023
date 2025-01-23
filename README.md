@@ -1,6 +1,6 @@
 Je vais rendre votre profil GitHub plus dynamique et charismatique :
 
-# 👋 Salut, je suis Manfred - Architecte Numérique & Innovateur Tech ! 🚀
+# 👋 Salut, je suis Manfred - Dev Junior Mobile ! 🚀
 
 ## 🌍 Développeur Passionné, Créateur de Solutions Digitales Africaines
 
