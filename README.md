@@ -1,67 +1,90 @@
-# 👋 Salut, je suis Manfred - Développeur Mobile Junior 🚀
+<div align="center">
 
-## 🌍 Créateur de Solutions Numériques Innovantes pour l'Afrique
+# 👋 Salut, moi c'est Manfred
 
-Développeur passionné basé au Cameroun, spécialisé dans la création d'applications mobiles performantes et de solutions backend robustes. Je transforme les défis technologiques en opportunités de croissance.
+### Développeur Mobile Junior · Bâtisseur de solutions numériques pour l'Afrique 🌍
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+iOS+%26+Android;Backend+avec+PHP+%26+Node.js;Je+code+des+solutions%2C+pas+juste+des+apps;Ouvert+aux+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🔧 Compétences Techniques
+[![Gmail](https://img.shields.io/badge/Email-moukatemanfred%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moukatemanfred@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B237%20699%20888%20709-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237699888709)
+[![GitHub](https://img.shields.io/badge/GitHub-Manfred2023-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manfred2023)
 
-### 📱 Développement Mobile
-- **Flutter** : Maîtrise avancée - applications multiplateformes iOS/Android
-- Architecture modulaire et optimisation des performances
-- UI/UX responsive et intuitive
-
-### ⚙️ Backend & Architecture
-- **PHP && NODE JS** : Systèmes backend scalables et sécurisés
-- Conception d'API RESTful robustes
-- Gestion de bases de données relationnelles
-
-### 🌍 Spécialisation
-- Solutions technologiques adaptées aux contextes africains
-- Applications accessibles et performantes sur connexions variables
-- Optimisation pour appareils bas de gamme
+</div>
 
 ---
 
-## 🚀 Actuellement en Phase De
+## 🚀 À propos de moi
 
-- 📚 Approfondissement des architectures cloud modernes
-- 🔍 Exploration des meilleures pratiques de développement
-- 🤝 Recherche de projets open-source impactants
-- 💪 Construction d'un portfolio de projets transformateurs
+Développeur passionné basé au **Cameroun** 🇨🇲, je conçois des applications mobiles performantes et des solutions backend robustes, pensées pour les réalités du terrain africain : connexions instables, appareils bas de gamme, besoins concrets.
 
----
-
-## 💡 Philosophie
-
-> *"Je ne code pas seulement des applications, je construis des solutions qui racontent des histoires et transforment des vies."*
-
-Chaque ligne de code compte. Je crois en la puissance de la technologie pour créer un impact positif en Afrique.
+Mon objectif : transformer des idées simples en outils qui changent vraiment le quotidien des gens.
 
 ---
 
-## 📬 Entrons en Contact
-
-| Canal | Contact |
-|-------|---------|
-| 📧 **Email** | [moukatemanfred@gmail.com](mailto:moukatemanfred@gmail.com) |
-| 📞 **WhatsApp/Tél** | [+237 699 888 709](tel:+237699888709) |
-| 🐙 **GitHub** | [@Manfred2023](https://github.com/Manfred2023) | 
-
----
-
-## 🤝 Soyons Partenaires !
-
-Vous avez une idée brillante et cherchez un développeur pour la concrétiser ? Vous travaillez sur un projet qui pourrait changer les choses en Afrique ? 
-
-**Parlons-en !** Je suis toujours ouvert à collaborer sur des projets significatifs.
-
----
+## 🛠️ Compétences Techniques
 
 <div align="center">
 
-**"La technologie n'a pas de frontières. Le changement commence ici, maintenant."** 🌟
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+**📱 Mobile** — Applications Flutter multiplateformes (iOS/Android), architecture modulaire, UI/UX fluide et responsive, optimisation pour appareils d'entrée de gamme.
+
+**⚙️ Backend** — API RESTful sécurisées avec PHP et Node.js, gestion de bases de données relationnelles, systèmes pensés pour évoluer.
+
+**🌍 Spécialité terrain** — Solutions adaptées aux contraintes africaines : réseaux lents, budgets data limités, matériel varié.
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manfred2023&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manfred2023&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manfred2023&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔭 En ce moment
+
+- 📚 J'approfondis les architectures cloud modernes
+- 🔍 J'explore les meilleures pratiques de dev mobile & backend
+- 🤝 Je cherche des projets open-source à impact
+- 💪 Je construis un portfolio de projets qui comptent
+
+---
+
+## 💡 Ma philosophie
+
+> *« Je ne code pas seulement des applications, je construis des solutions qui racontent des histoires et transforment des vies. »*
+
+Chaque ligne de code compte. Je crois au pouvoir de la technologie pour créer un impact positif en Afrique.
+
+---
+
+## 🤝 Travaillons ensemble
+
+Vous avez une idée qui pourrait changer les choses ? Un projet à fort impact en Afrique ? Je suis toujours partant pour en discuter.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Écrivez--moi-moukatemanfred%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:moukatemanfred@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Discutons_sur-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/237699888709)
+
+### 🌟 *"La technologie n'a pas de frontières. Le changement commence ici, maintenant."* 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manfred2023&color=blue&style=flat-square)
 
 </div>
