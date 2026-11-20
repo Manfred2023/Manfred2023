@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Manfred
+# 👋 Salut, moi c'est Manfred MOUKATE
 
-### Développeur Mobile Junior · Bâtisseur de solutions numériques pour l'Afrique 🌍
+### Ing Génie logiciel & Mobile developer Junior · Bâtisseur de solutions numériques pour l'Afrique 🌍
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+iOS+%26+Android;Backend+avec+PHP+%26+Node.js;Je+code+des+solutions%2C+pas+juste+des+apps;Ouvert+aux+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
